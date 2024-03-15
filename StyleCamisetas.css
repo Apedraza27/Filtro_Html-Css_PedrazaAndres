@@ -1,0 +1,338 @@
+.BarraLateral{
+    position: absolute;
+    
+}
+.TB1{
+    position: absolute;
+    top: 3vi;
+    left: 5vi;
+    font-size: 2vi;
+    color: green;
+}
+.Todos{
+    position: absolute;
+    text-decoration: none;
+    color: green;
+    width: 10vi;
+    top: 14vi;
+    left: 10vi;
+    font-size: 1vi;
+}
+.Abrigos{
+    position: absolute;
+    text-decoration: none;
+    color: green;
+    top: 18vi;
+    left: 10vi;
+    font-size: 1vi;
+}
+.Camisetas{
+    position: absolute;
+    text-decoration: none;
+    color: green;
+    top: 22vi;
+    left: 10vi;
+    font-size: 1vi;
+}
+.Pantalones{
+    position: absolute;
+    text-decoration: none;
+    color: green;
+    top: 26vi;
+    left: 10vi;
+    font-size: 1vi;
+}
+.Carrito{
+    position: absolute;
+    text-decoration: none;
+    color: green;
+    top: 40vi;
+    left: 10vi;
+    font-size: 1vi;
+}
+
+.CuadroBlanco{
+    position: absolute;
+    background-color: white;
+    border-radius: 2vi;
+    box-shadow: 0vi 0vi 1vi 0vi #000000;
+    border-style: solid;
+    border-color: green;
+    width: 70vi;
+    height: 88vi;
+    top: 4.5vi;
+    left: 25vi;
+}
+p{
+    font-size: 2vi;
+    position: absolute;
+    left: 2vi;
+    color: green;
+}
+/*----------6----------*/
+.Cuadro6{
+    position: absolute;
+    background-color: #90EE90;
+    border-radius: 2vi;
+    box-shadow: 0vi 0vi 1vi 0vi green;
+    width: 13vi;
+    height: 17vi;
+    top: 6vi;
+    left: 2vi;
+}
+.Imagen6{
+    position: absolute;
+    width: 8vi;
+    height: 10vi;
+    top: 2vi;
+    left: 2.5vi;
+}
+.Cuadrito6{
+    position: absolute;
+    background-color: white;
+    width: 13vi;
+    height: 4vi;
+    top: 12.95vi;
+    left: -0.2vi;
+    border-radius: 1vi; 
+    border-style: solid;
+    border-color: green;
+}
+.P11{
+    position: absolute;
+    font-size: 1vi;
+    left: 1vi;
+    top: -0.5vi;
+}
+.P12{
+    position: absolute;
+    font-size: 1vi;
+    left: 1vi;
+    top: 1.2vi;
+}
+.CuadroAgregar1{
+    position: absolute;
+    background-color: green;
+    width: 5vi;
+    height: 1.5vi;
+    top: 1vi;
+    left: 7.5vi;
+    border-radius: 0.5vi; 
+    text-align: center;
+    font-size: 0.8vi;
+    color: white;
+}
+
+/*----------7----------*/
+.Cuadro7{
+    position: absolute;
+    background-color: #90EE90;
+    border-radius: 2vi;
+    box-shadow: 0vi 0vi 1vi 0vi green;
+    width: 13vi;
+    height: 17vi;
+    top: 6vi;
+    left: 18vi;
+}
+.Imagen7{
+    position: absolute;
+    width: 8vi;
+    height: 10vi;
+    top: 2vi;
+    left: 2.5vi;
+}
+.Cuadrito7{
+    position: absolute;
+    background-color: white;
+    width: 13vi;
+    height: 4vi;
+    top: 12.95vi;
+    left: -0.2vi;
+    border-radius: 1vi; 
+    border-style: solid;
+    border-color: green;
+}
+.P13{
+    position: absolute;
+    font-size: 1vi;
+    left: 1vi;
+    top: -0.5vi;
+}
+.P14{
+    position: absolute;
+    font-size: 1vi;
+    left: 1vi;
+    top: 1.2vi;
+}
+.CuadroAgregar1{
+    position: absolute;
+    background-color: green;
+    width: 5vi;
+    height: 1.5vi;
+    top: 1vi;
+    left: 7.5vi;
+    border-radius: 0.5vi; 
+    text-align: center;
+    font-size: 0.8vi;
+    color: white;
+}
+
+/*----------8----------*/
+.Cuadro8{
+    position: absolute;
+    background-color: #90EE90;
+    border-radius: 2vi;
+    box-shadow: 0vi 0vi 1vi 0vi green;
+    width: 13vi;
+    height: 17vi;
+    top: 6vi;
+    left: 34vi;
+}
+.Imagen8{
+    position: absolute;
+    width: 8vi;
+    height: 10vi;
+    top: 2vi;
+    left: 2.5vi;
+}
+.Cuadrito8{
+    position: absolute;
+    background-color: white;
+    width: 13vi;
+    height: 4vi;
+    top: 12.95vi;
+    left: -0.2vi;
+    border-radius: 1vi; 
+    border-style: solid;
+    border-color: green;
+}
+.P15{
+    position: absolute;
+    font-size: 1vi;
+    left: 1vi;
+    top: -0.5vi;
+}
+.P16{
+    position: absolute;
+    font-size: 1vi;
+    left: 1vi;
+    top: 1.2vi;
+}
+.CuadroAgregar1{
+    position: absolute;
+    background-color: green;
+    width: 5vi;
+    height: 1.5vi;
+    top: 1vi;
+    left: 7.5vi;
+    border-radius: 0.5vi; 
+    text-align: center;
+    font-size: 0.8vi;
+    color: white;
+}
+/*----------9----------*/
+.Cuadro9{
+    position: absolute;
+    background-color: #90EE90;
+    border-radius: 2vi;
+    box-shadow: 0vi 0vi 1vi 0vi green;
+    width: 13vi;
+    height: 17vi;
+    top: 6vi;
+    left: 50vi;
+}
+.Imagen9{
+    position: absolute;
+    width: 8vi;
+    height: 10vi;
+    top: 2vi;
+    left: 2.5vi;
+}
+.Cuadrito9{
+    position: absolute;
+    background-color: white;
+    width: 13vi;
+    height: 4vi;
+    top: 12.95vi;
+    left: -0.2vi;
+    border-radius: 1vi; 
+    border-style: solid;
+    border-color: green;
+}
+.P17{
+    position: absolute;
+    font-size: 1vi;
+    left: 1vi;
+    top: -0.5vi;
+}
+.P18{
+    position: absolute;
+    font-size: 1vi;
+    left: 1vi;
+    top: 1.2vi;
+}
+.CuadroAgregar1{
+    position: absolute;
+    background-color: green;
+    width: 5vi;
+    height: 1.5vi;
+    top: 1vi;
+    left: 7.5vi;
+    border-radius: 0.5vi; 
+    text-align: center;
+    font-size: 0.8vi;
+    color: white;
+}
+/*----------10----------*/
+.Cuadro10{
+    position: absolute;
+    background-color: #90EE90;
+    border-radius: 2vi;
+    box-shadow: 0vi 0vi 1vi 0vi green;
+    width: 13vi;
+    height: 17vi;
+    top: 27vi;
+    left: 2vi;
+}
+.Imagen10{
+    position: absolute;
+    width: 8vi;
+    height: 10vi;
+    top: 2vi;
+    left: 2.5vi;
+}
+.Cuadrito10{
+    position: absolute;
+    background-color: white;
+    width: 13vi;
+    height: 4vi;
+    top: 12.95vi;
+    left: -0.2vi;
+    border-radius: 1vi; 
+    border-style: solid;
+    border-color: green;
+}
+.P19{
+    position: absolute;
+    font-size: 1vi;
+    left: 1vi;
+    top: -0.5vi;
+}
+.P20{
+    position: absolute;
+    font-size: 1vi;
+    left: 1vi;
+    top: 1.2vi;
+}
+.CuadroAgregar1{
+    position: absolute;
+    background-color: green;
+    width: 5vi;
+    height: 1.5vi;
+    top: 1vi;
+    left: 7.5vi;
+    border-radius: 0.5vi; 
+    text-align: center;
+    font-size: 0.8vi;
+    color: white;
+}
